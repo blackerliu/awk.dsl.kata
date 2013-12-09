@@ -1,0 +1,15 @@
+
+foo bar oni eeny meeny miny larry curly moe jimmy the weasel
+
+main(void)
+{
+	int i = 0;
+	int sum = 0;
+
+	for(i = 0; i < 10; i++){
+		sum += i;
+	}
+}
+
+28 Aug 2000 food - - Y Supermarket 30.94 
+25 Aug 2000 watr - 103 Y Check 103 52.86
